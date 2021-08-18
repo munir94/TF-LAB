@@ -3,7 +3,7 @@ provider "azurerm" {
   # Whilst version is optional, we /strongly recommend/ using it to pin the version of the Provider being used
   version = "=1.28.0"
   #PRODsubcription
-   subscription_id = "ee31172f-3e56-4f55-94e8-6adce8c23e83" 
+   subscription_id = "xxxxxxxx" 
 }
 
 # Create a resource group
